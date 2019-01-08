@@ -4,4 +4,3 @@ import sys
 import parameter as pr
 import re
 import datetime
-os.getcwd()
